@@ -5,7 +5,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")
 local LocalPlayer = Player.LocalPlayer
 
--- I copied Vibes work flow because i wanna be like him XD
+-- I copied TerminalVibes work flow because i wanna be like him XD
 -- he still neg diffs me through knowledge of coding tho :(
 -- Managers, the stuff where it does the work
 local ProximityManager = {Proximities = {}}
